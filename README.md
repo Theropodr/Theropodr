@@ -25,3 +25,33 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <!-- Background effect line of sight color red -->
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<!-- Background github GIF with Spy X Family down below -->
+
+
+<!-- Background effect line of sight color red -->
+<br>
+
+<!-- Tell us about your self and some important details to describe your personality, you can definetely add and revise this Jezlyn whenever you want -->
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=💙💙💙💎💎+R+A+V+E+N+💎💎💙💙💙" alt="Typing SVG" /></a></h3>   
+<h3 align="center">An aspiring UI/UX Developer from the Philippines.</h3> 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<div align="left">
+  
+- 👩🏻‍💻 Aspiring UI UX Developer.
+
+- 👩🏻‍🎓 I’m currently studying Bachelor of Science in Information Technology major in Multimedia Arts.
+
+- 👯 I’m excited to learn about Multimedia Arts using this roadmap: [UX Design](https://roadmap.sh/ux-design).
+
+- 🌷 I’m currently learning JAVA in my programming subject.
+
+- 💬 Ask me about **Anything related to UX Design, Multimedia Arts, or Arts in General**
+
+- 📫 Connect with me on my social media: [Raven Sibucao](https://www.facebook.com/raven.sibucao)
+
+- ⚡ Fun fact **I love watching Spy x Family!**
+
+</div>
