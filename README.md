@@ -56,3 +56,31 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 - ⚡ Fun fact **I love watching Spy x Family!**
 
 </div>
+
+<!-- Introduction Pannel button link, link button is located down below -->
+## [Introduction](#introduction)
+<!-- End point insert background effect line of sight color red -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+
+<!-- Delete this line of code if you want to activate the line 80 to 95 -->
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=💙💙💙💎💎+R+A+V+E+N+💎💎💙💙💙" alt="Typing SVG" /></a></h3>  
+
+<!-- Gif Background 
+<div style="display: flex; justify-content: space-between;">
+<img width="200" height="200" src="https://media.giphy.com/media/2xMd6BEs8DMrpfrOb5/giphy.gif?cid=790b76119kuzgy7t74d7e04tzw3nmo683h1pgmc3ov1ncn5m&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/2xMd6BEs8DMrpfrOb5/giphy.gif?cid=790b76119kuzgy7t74d7e04tzw3nmo683h1pgmc3ov1ncn5m&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+ 
+  <img width="200" height="200" src="https://media.giphy.com/media/ZL2iRxhnDwtSE/giphy.gif?cid=790b7611fdsqavlu1rxb7a7zlwqtzjb9xx5x7qq8iov6sz7p&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 10px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/Mlx5hjAPRMlYQ/giphy.gif?cid=790b7611g18j0mwbcuykkwk7w0qwi7pbj4rx90acc22a1738&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 10px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/Mlx5hjAPRMlYQ/giphy.gif?cid=790b7611g18j0mwbcuykkwk7w0qwi7pbj4rx90acc22a1738&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/l49JC5J0e7rC2vqAU/giphy.gif?cid=790b7611fdsqavlu1rxb7a7zlwqtzjb9xx5x7qq8iov6sz7p&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+
+
+<img width="200" height="200" src="https://media.giphy.com/media/2xMd6BEs8DMrpfrOb5/giphy.gif?cid=790b76119kuzgy7t74d7e04tzw3nmo683h1pgmc3ov1ncn5m&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/2xMd6BEs8DMrpfrOb5/giphy.gif?cid=790b76119kuzgy7t74d7e04tzw3nmo683h1pgmc3ov1ncn5m&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" /> 
+-->
