@@ -45,7 +45,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <!-- Background effect line of sight color red -->
 <br>
 
-<!-- Tell us about your self and some important details to describe your personality, you can definetely add and revise this Jezlyn whenever you want -->
+<!-- Tell us about your self and some important details to describe your personality, you can definetely add and revise this Raven whenever you want -->
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=💙💙💙💎💎+R+A+V+E+N+💎💎💙💙💙" alt="Typing SVG" /></a></h3>   
 <h3 align="center">An aspiring UI/UX Developer from the Philippines.</h3> 
 
@@ -78,23 +78,23 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <!-- Delete this line of code if you want to activate the line 80 to 95 -->
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=💙💙💙💎💎+R+A+V+E+N+💎💎💙💙💙" alt="Typing SVG" /></a></h3>  
 
-<!-- Gif Background -->
+<!-- Gif Background spy x family  -->
 <div style="display: flex; justify-content: space-between;">
-<img width="200" height="200" src="https://media.giphy.com/media/2xMd6BEs8DMrpfrOb5/giphy.gif?cid=790b76119kuzgy7t74d7e04tzw3nmo683h1pgmc3ov1ncn5m&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
-<img width="200" height="200" src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
-<img width="200" height="200" src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
-<img width="200" height="200" src="https://media.giphy.com/media/2xMd6BEs8DMrpfrOb5/giphy.gif?cid=790b76119kuzgy7t74d7e04tzw3nmo683h1pgmc3ov1ncn5m&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/Trn6sP8otECpClKyBi/giphy.gif?cid=790b7611oafmar5e0vy32uej6lxa3m8kdn7z3tyhpdmrbfwd&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhrcDZrdHNoNGNhOHh0ZHh0djhxN2dvMmZoYmh6MDV6djVnZGV5eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uyiVrmF8YIhK9Cv3bb/giphy.gif" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/ymRRmPPNdm6ehCzoDR/giphy.gif?cid=790b76112hkp6ktsh4ca8xtdxtv8q7go2fhbhz05zv5gdeyy&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/3Q0BOVN2TkKoZ6bmkt/giphy.gif?cid=790b76112hkp6ktsh4ca8xtdxtv8q7go2fhbhz05zv5gdeyy&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
  
-  <img width="200" height="200" src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 10px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/qE86UR7gniSqCCAOu8/giphy.gif?cid=ecf05e478xag6tlcnkdmmuv92kdmmbawzvcfztss9f50x697&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 10px;" />
   <img width="200" height="200" src="https://media.giphy.com/media/DiIxyaloyBVxKps4Nn/giphy.gif?cid=ecf05e478xag6tlcnkdmmuv92kdmmbawzvcfztss9f50x697&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 10px;" />
   <img width="200" height="200" src="https://media.giphy.com/media/o00txYe5oF3UNTg2HS/giphy.gif?cid=ecf05e478xag6tlcnkdmmuv92kdmmbawzvcfztss9f50x697&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
-  <img width="200" height="200" src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/NcALtDKs5fgqYqGuqH/giphy.gif?cid=790b76112hkp6ktsh4ca8xtdxtv8q7go2fhbhz05zv5gdeyy&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
 
 
-<img width="200" height="200" src="https://media.giphy.com/media/2xMd6BEs8DMrpfrOb5/giphy.gif?cid=790b76119kuzgy7t74d7e04tzw3nmo683h1pgmc3ov1ncn5m&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
-<img width="200" height="200" src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
-<img width="200" height="200" src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
-<img width="200" height="200" src="https://media.giphy.com/media/2xMd6BEs8DMrpfrOb5/giphy.gif?cid=790b76119kuzgy7t74d7e04tzw3nmo683h1pgmc3ov1ncn5m&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" /> 
+<img width="200" height="200" src="https://media.giphy.com/media/3Q0BOVN2TkKoZ6bmkt/giphy.gif?cid=790b76112hkp6ktsh4ca8xtdxtv8q7go2fhbhz05zv5gdeyy&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/TIXvsMtiMQ2WcHoDMK/giphy.gif?cid=790b76112hkp6ktsh4ca8xtdxtv8q7go2fhbhz05zv5gdeyy&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/JaMQmkaG3JsegkqnHC/giphy.gif?cid=790b76112hkp6ktsh4ca8xtdxtv8q7go2fhbhz05zv5gdeyy&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/pKJITcCYUBdiDWNp2g/giphy.gif?cid=790b7611oafmar5e0vy32uej6lxa3m8kdn7z3tyhpdmrbfwd&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" /> 
 
 
 <!-- End point insert background effect line of sight color rainbow -->
@@ -160,6 +160,13 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️ 
+
+### ✨🚀 UI / UX Development and Graphic Design 🚀✨   
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://github.com/Theropodr/Theropodr/blob/main/assets/UI-UX.gif"/>
+♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️  
+
+
 <!-- Introduction Pannel button link, it will redirect to the top -->
 #### [Back to Table of Content](#introduction)
 <!-- End point line insert Thanks for visiting enjoy your day, feel free to modify this  -->
@@ -167,6 +174,11 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
 </p>
+
+<!-- Anya Forger -->
+<div align="center">
+<img src="https://github.com/Theropodr/Theropodr/blob/main/assets/anya.gif" width="300">
+</div>
 
 <!-- End point line insert Comeback again next time, feel free to modify this  -->
 <p align="center">
