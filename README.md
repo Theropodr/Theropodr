@@ -28,7 +28,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <div align="center">
 <img width="300" height="300" src="https://media.giphy.com/media/46yPfgO81ZalJSKu74/giphy.gif?cid=ecf05e47g3ao5epwgdzfi9rxyof67a4gi05aohh4pkxy0yxj&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
 <img src="https://media.giphy.com/media/gl2Pu1StPljmi561zN/giphy.gif?cid=790b7611me4b3ojobqed5src3h9pziv3k8gz5rhod3vhyf1l&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
-<img src="https://media.giphy.com/media/aMhaPCG2LXUzVxLwYB/giphy.gif?cid=790b7611me4b3ojobqed5src3h9pziv3k8gz5rhod3vhyf1l&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+<img src="https://media.giphy.com/media/UpDYorecBj9ZgB7FgE/giphy.gif?cid=ecf05e470ot4fr3y98edzm1wa6ckq0u677uy3q5oino1whw8&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="300">
 
 <!-- Background effect line of sight color red -->
 <br>
