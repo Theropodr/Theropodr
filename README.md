@@ -23,11 +23,26 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <a href="https://buymeacoffee.com/flexycode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
 
+
+<!-- Background github GIF with 3 Totoro -->
+<div align="center">
+<img width="300" height="300" src="https://media.giphy.com/media/46yPfgO81ZalJSKu74/giphy.gif?cid=ecf05e47g3ao5epwgdzfi9rxyof67a4gi05aohh4pkxy0yxj&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img src="https://media.giphy.com/media/gl2Pu1StPljmi561zN/giphy.gif?cid=790b7611me4b3ojobqed5src3h9pziv3k8gz5rhod3vhyf1l&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+<img src="https://media.giphy.com/media/aMhaPCG2LXUzVxLwYB/giphy.gif?cid=790b7611me4b3ojobqed5src3h9pziv3k8gz5rhod3vhyf1l&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+
 <!-- Background effect line of sight color red -->
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <!-- Background github GIF with Spy X Family down below -->
+
+<!-- Anime Background effect line of sight color red -->
+<div align="center">
+<img src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+<img src="https://media.giphy.com/media/1WL5qUxmKBvOM/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+<img src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGwxY3BkdDI2M2t1bmJod3hsbG9rYnlrYmkycnA1eHp0MGo2cWZ1eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FIZ1QC610AAhi/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGwxY3BkdDI2M2t1bmJod3hsbG9rYnlrYmkycnA1eHp0MGo2cWZ1eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FIZ1QC610AAhi/giphy.gif" width="250">
 
 
 <!-- Background effect line of sight color red -->
@@ -99,6 +114,10 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 </div>
 
+<!-- Anya Forger -->
+<div align="center">
+<img src="https://github.com/Theropodr/Theropodr/blob/main/assets/anya-forger.gif" width="300">
+</div>
 
 <br>
 <!-- Language and Tools, feel free to revise this Raven.
