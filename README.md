@@ -155,3 +155,7 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 
 <div align="center">
 
+<!-- Random Quote -->
+### ✍️ Random Dev Quote 
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
