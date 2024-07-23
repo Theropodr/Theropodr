@@ -84,3 +84,17 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <img width="200" height="200" src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
 <img width="200" height="200" src="https://media.giphy.com/media/2xMd6BEs8DMrpfrOb5/giphy.gif?cid=790b76119kuzgy7t74d7e04tzw3nmo683h1pgmc3ov1ncn5m&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" /> 
 -->
+
+<!-- Fade-in / Fade-out effect pannel button for Linkedin, Instagram, Facebook and Twitter -->
+<div align="center">
+<h2>Connect with me on     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40">&nbsp;</h2>
+<a href="https://www.linkedin.com/in/raven.sibucao/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
+<a href="https://www.instagram.com/spyfamily_en/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70"></a>
+<a href="https://www.facebook.com/raven.sibucao" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70"></a>
+<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70">
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<!-- End point insert background effect line of sight color red -->
+
