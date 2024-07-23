@@ -35,15 +35,12 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <!-- Background github GIF with Spy X Family down below -->
-
-<!-- Anime Background effect line of sight color red -->
 <div align="center">
-<img src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
-<img src="https://media.giphy.com/media/1WL5qUxmKBvOM/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
-<img src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGwxY3BkdDI2M2t1bmJod3hsbG9rYnlrYmkycnA1eHp0MGo2cWZ1eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FIZ1QC610AAhi/giphy.gif" width="250">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGwxY3BkdDI2M2t1bmJod3hsbG9rYnlrYmkycnA1eHp0MGo2cWZ1eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FIZ1QC610AAhi/giphy.gif" width="250">
-
+<img src="https://media.giphy.com/media/cI1jqAp0Ns1GSwuaQg/giphy.gif?cid=ecf05e47lxp213bwfuvibg2jqej4g3osjlnjw1kbov580l79&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+<img src="https://media.giphy.com/media/WXp3Y7G5gcHgb3Tyhk/giphy.gif?cid=ecf05e479q0dv3c8ecls8w7yc16pzxn09jngr7l1xzmexqit&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+<img src="https://media.giphy.com/media/2EnZXRxUk9JbcV6LYs/giphy.gif?cid=ecf05e479q0dv3c8ecls8w7yc16pzxn09jngr7l1xzmexqit&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+<img src="https://media.giphy.com/media/qcWVI3aliM92KsQtqe/giphy.gif?cid=ecf05e477gt5nyyw11j0hlsbn9glfzohgo0lyret1239n5fb&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="250">
+<img src="https://media.giphy.com/media/QXLWT6goFqoNw92Emg/giphy.gif?cid=ecf05e471eo7vej58ysz380bw364mtrgua9g8h0j75fjq48k&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="250">
 
 <!-- Background effect line of sight color red -->
 <br>
