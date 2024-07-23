@@ -66,24 +66,28 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <!-- Delete this line of code if you want to activate the line 80 to 95 -->
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&color=00E901&center=true&width=435&lines=💙💙💙💎💎+R+A+V+E+N+💎💎💙💙💙" alt="Typing SVG" /></a></h3>  
 
-<!-- Gif Background 
+<!-- Gif Background -->
 <div style="display: flex; justify-content: space-between;">
 <img width="200" height="200" src="https://media.giphy.com/media/2xMd6BEs8DMrpfrOb5/giphy.gif?cid=790b76119kuzgy7t74d7e04tzw3nmo683h1pgmc3ov1ncn5m&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
 <img width="200" height="200" src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
 <img width="200" height="200" src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
 <img width="200" height="200" src="https://media.giphy.com/media/2xMd6BEs8DMrpfrOb5/giphy.gif?cid=790b76119kuzgy7t74d7e04tzw3nmo683h1pgmc3ov1ncn5m&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
  
-  <img width="200" height="200" src="https://media.giphy.com/media/ZL2iRxhnDwtSE/giphy.gif?cid=790b7611fdsqavlu1rxb7a7zlwqtzjb9xx5x7qq8iov6sz7p&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 10px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 10px;" />
   <img width="200" height="200" src="https://media.giphy.com/media/Mlx5hjAPRMlYQ/giphy.gif?cid=790b7611g18j0mwbcuykkwk7w0qwi7pbj4rx90acc22a1738&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 10px;" />
   <img width="200" height="200" src="https://media.giphy.com/media/Mlx5hjAPRMlYQ/giphy.gif?cid=790b7611g18j0mwbcuykkwk7w0qwi7pbj4rx90acc22a1738&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
-  <img width="200" height="200" src="https://media.giphy.com/media/l49JC5J0e7rC2vqAU/giphy.gif?cid=790b7611fdsqavlu1rxb7a7zlwqtzjb9xx5x7qq8iov6sz7p&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
 
 
 <img width="200" height="200" src="https://media.giphy.com/media/2xMd6BEs8DMrpfrOb5/giphy.gif?cid=790b76119kuzgy7t74d7e04tzw3nmo683h1pgmc3ov1ncn5m&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
 <img width="200" height="200" src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
 <img width="200" height="200" src="https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif?cid=790b76110l1cpdt263kunbhwxllokbykbi2rp5xzt0j6qfux&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
 <img width="200" height="200" src="https://media.giphy.com/media/2xMd6BEs8DMrpfrOb5/giphy.gif?cid=790b76119kuzgy7t74d7e04tzw3nmo683h1pgmc3ov1ncn5m&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" /> 
--->
+
+
+<!-- End point insert background effect line of sight color rainbow -->
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
+
 
 <!-- Fade-in / Fade-out effect pannel button for Linkedin, Instagram, Facebook and Twitter -->
 <div align="center">
@@ -95,6 +99,15 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-<!-- End point insert background effect line of sight color red -->
 
+<br>
+<!-- Language and Tools, feel free to revise this Raven.
+Visit this Github url for more icon preference: https://github.com/tandpfun/skill-icons#readme -->
+<div align="center">
+<h2>Languages & Tools <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;</h2>
+<img src="https://skillicons.dev/icons?i=html,htmx,css,tailwind,windicss,js,ae,java,bootstrap,blender,github,codepen,devto,discord,eclipse,idea,figma,ps,pr,xd,sass,svg,githubactions,gmail,vercel,windows,notion,npm,vscode,wordpress" alt="mongoDB" title="mongoDB"/>
+</div>
+
+<br>
+<!-- End point insert background effect line of sight color rainbow -->
+<img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" width="1000">
