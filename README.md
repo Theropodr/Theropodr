@@ -55,7 +55,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
   
 - 👩🏻‍💻 Aspiring UI UX Developer.
 
-- 👩🏻‍🎓 I’m currently studying Bachelor of Science in Information Technology major in Multimedia Arts.
+- 👩🏻‍🎓 I’m currently studying Bachelor of Science in Information Technology major in Multimedia Arts and Animation.
 
 - 👯 I’m excited to learn about Multimedia Arts using this roadmap: [UX Design](https://roadmap.sh/ux-design).
 
@@ -135,7 +135,8 @@ Visit this Github url for more icon preference: https://github.com/tandpfun/skil
 <!-- For more theme color visit this link https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 ![Theropodr GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Theropodr&langs_count=11&theme=ambient_gradient&border=false&include_all_commits=true&count_private=true&layout=compact) 
 
-
+<!-- GitHub Graph  -->
+<a href="https://github.com/Theropodr"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Theropodr&bg_color=0C1014&color=4C8ED9&line=4C8ED9&point=FFFFFF&hide_border=true&border=3B495FFF" /></a>
 
 <br>
 <!-- End point insert background effect line of sight color rainbow -->
